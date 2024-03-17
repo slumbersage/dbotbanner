@@ -1,4 +1,4 @@
-# Discord Bot Profile Picture and Banner Updater
+# Discord Bot Animated Profile Picture and Banner Updater
 
 This Python script allows you to update your Discord profile picture and banner using image URLs.
 
